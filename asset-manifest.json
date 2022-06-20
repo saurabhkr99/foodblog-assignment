@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodblog-assignment/static/css/main.18c73dcb.css",
+    "main.js": "/foodblog-assignment/static/js/main.f4a3984d.js",
+    "static/js/787.3adb45fa.chunk.js": "/foodblog-assignment/static/js/787.3adb45fa.chunk.js",
+    "index.html": "/foodblog-assignment/index.html",
+    "main.18c73dcb.css.map": "/foodblog-assignment/static/css/main.18c73dcb.css.map",
+    "main.f4a3984d.js.map": "/foodblog-assignment/static/js/main.f4a3984d.js.map",
+    "787.3adb45fa.chunk.js.map": "/foodblog-assignment/static/js/787.3adb45fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c73dcb.css",
+    "static/js/main.f4a3984d.js"
+  ]
+}
