@@ -1,0 +1,35 @@
+
+.card{
+    display: flex;
+    flex-direction: row;
+    border-top-width: 0px;
+    border-bottom-width: 2px;
+    align-items: center;
+    margin-left: 24px;
+    padding: 2px;
+}
+.card_img{
+    width: 33%;
+}
+.card_product{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 66%;
+    margin-top: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    
+
+}
+.card_button{
+    border-radius: 6px;
+    padding-right: 8px;
+    padding-left: 8px;
+    border-width: 1px;
+    font-weight: 600;
+}
+.p{
+    margin: 0px;
+}

@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.header1{
+  background-color:rgb(19, 194, 112);
+  width:auto;
+  padding: 10px 20px;
+  color: black;
+  /* margin-top: 20px; */
+}
+.header1 nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header1_icons{
+  justify-content:space-around;
+  
+}
